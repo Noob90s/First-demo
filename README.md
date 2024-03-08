@@ -1,4 +1,5 @@
 # First-demo
 This is my first GIT Repository.
 <br>
-Author - Yash Nimje
+Author - Yash Nimje (github)
+
